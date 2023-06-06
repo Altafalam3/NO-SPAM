@@ -18,7 +18,7 @@ To use the application, follow the below steps for installation:
 
 0. Clone the project by running following command:
 ```
-git clone https://github.com/Altafalam3/Spam-Sms-Classifier.git
+git clone https://github.com/Altafalam3/NO-SPAM.git
 ```
 
 1. Install Python and pip on your computer.
